@@ -1,0 +1,23 @@
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\bin\Debug\coffy new.exe.config
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\bin\Debug\coffy new.exe
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\bin\Debug\coffy new.pdb
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\bin\Debug\MySql.Data.dll
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\bin\Debug\MySql.Web.dll
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\bin\Debug\Google.Protobuf.dll
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\bin\Debug\Renci.SshNet.dll
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\bin\Debug\MySql.Data.xml
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\bin\Debug\MySql.Web.xml
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.csprojAssemblyReference.cache
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form1.resources
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form2.resources
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form3.resources
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form4.resources
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form5.resources
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form6.resources
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Properties.Resources.resources
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.csproj.GenerateResource.cache
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.csproj.CopyComplete
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.exe
+C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.pdb
