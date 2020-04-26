@@ -38,6 +38,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.textBox2 = new System.Windows.Forms.TextBox();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // label1
@@ -52,7 +53,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(70, 179);
+            this.label3.Location = new System.Drawing.Point(76, 110);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(23, 17);
             this.label3.TabIndex = 2;
@@ -61,7 +62,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(70, 231);
+            this.label4.Location = new System.Drawing.Point(76, 175);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(29, 17);
             this.label4.TabIndex = 3;
@@ -70,7 +71,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(70, 286);
+            this.label5.Location = new System.Drawing.Point(76, 253);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(99, 17);
             this.label5.TabIndex = 4;
@@ -79,24 +80,26 @@
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(130, 231);
+            this.radioButton1.Location = new System.Drawing.Point(174, 175);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(50, 21);
             this.radioButton1.TabIndex = 5;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "ชาย";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(220, 231);
+            this.radioButton2.Location = new System.Drawing.Point(286, 175);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(54, 21);
             this.radioButton2.TabIndex = 6;
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "หญิง";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // label6
             // 
@@ -109,7 +112,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(195, 174);
+            this.textBox1.Location = new System.Drawing.Point(206, 110);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(159, 22);
             this.textBox1.TabIndex = 8;
@@ -131,11 +134,21 @@
             this.textBox2.Size = new System.Drawing.Size(198, 22);
             this.textBox2.TabIndex = 10;
             // 
+            // comboBox1
+            // 
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(220, 251);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(144, 24);
+            this.comboBox1.TabIndex = 11;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
@@ -165,6 +178,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.ComboBox comboBox1;
     }
 }
 
