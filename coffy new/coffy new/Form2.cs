@@ -17,13 +17,56 @@ namespace coffy_new
         {
             InitializeComponent();
         }
-        MySqlConnection Connection = new MySqlConnection("datasource=localhost;Initial Catalog='coffy';username=coffys;password=12345678");
+        string gender;
+
         private void Form2_Load(object sender, EventArgs e)
         {
-            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
             string sql = "SELECT * FORM customers";
-            sql = "INSERT INTO customers (CustomerName, Gender, CustomerTelNo) VALUES ('"+textBox1.Text+"',[value-2],'"+textBox2+"'";
-            MySqlCommand cmd = new MySqlCommand(sql, Connection);
+            sql = "INSERT INTO customers (CustomerName, CustomerTelNo, Gender) VALUES ('" + textBox1.Text+"','"+textBox2+"','"+gender+"')";
+            MySqlConnection con = new MySqlConnection("datasource=localhost;Initial Catalog='coffy';username=coffys;password=12345678");
+            MySqlCommand cmd = new MySqlCommand(sql, con);
+            con.Open();
+            cmd.ExecuteNonQuery();
+            con.Close();
+
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            gender = "M";
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            gender = "F";
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            MySqlConnection con = new MySqlConnection("datasource=localhost;Initial Catalog='coffy';username=coffys;password=12345678");
+            string sql = "SELECT * FORM customers.CustomerType";
+            MySqlCommand cmd = new MySqlCommand(sql, con);
+            MySqlDataReader myReader;
+            try
+            {
+                con.Open();
+                myReader = cmd.ExecuteReader();
+                while (myReader.Read()) { }
+                {
+                    string typecos = myReader.GetString(4);
+                    comboBox1.Items.Add(typecos);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
         }
     }
 }
