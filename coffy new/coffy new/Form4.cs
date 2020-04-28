@@ -28,5 +28,10 @@ namespace coffy_new
             cmd.ExecuteNonQuery();
             con.Close();
         }
+
+        private void Form4_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

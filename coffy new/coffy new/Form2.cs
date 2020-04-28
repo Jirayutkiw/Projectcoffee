@@ -26,7 +26,7 @@ namespace coffy_new
         private void button1_Click(object sender, EventArgs e)
         {
             string sql = "SELECT * FORM customers";
-            sql = "INSERT INTO customers (CustomerName, CustomerTelNo, Gender) VALUES ('" + textBox1.Text+"','"+textBox2+"','"+gender+"')";
+            sql = "INSERT INTO customers (CustomerName, CustomerTelNo, Gender) VALUES ('" + textBox1.Text+"','"+textBox2.Text+"','"+gender+"')";
             MySqlConnection con = new MySqlConnection("datasource=localhost;Initial Catalog='coffy';username=coffys;password=12345678");
             MySqlCommand cmd = new MySqlCommand(sql, con);
             con.Open();
@@ -58,7 +58,7 @@ namespace coffy_new
                 myReader = cmd.ExecuteReader();
                 while (myReader.Read()) { }
                 {
-                    string typecos = myReader.GetString(4);
+                    string typecos = myReader.GetString("CustomerType");
                     comboBox1.Items.Add(typecos);
                 }
             }

@@ -151,6 +151,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "male";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // radioButton2
             // 
@@ -165,6 +166,17 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "famale";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(512, 326);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(174, 67);
+            this.button1.TabIndex = 12;
+            this.button1.Text = "บันทึก";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button1
             // 
@@ -185,9 +197,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.BackgroundImage = global::coffy_new.Properties.Resources._2;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(600, 366);
+=======
+            this.ClientSize = new System.Drawing.Size(800, 450);
+>>>>>>> ba2e80965635f364936d49c4d6cc654dce8aa26d
             this.Controls.Add(this.button1);
             this.Controls.Add(this.radioButton2);
             this.Controls.Add(this.radioButton1);
@@ -203,6 +219,7 @@
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form3";
             this.Text = "Form3";
+            this.Load += new System.EventHandler(this.Form3_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
