@@ -202,5 +202,29 @@
   <ItemGroup>
     <None Include="Resources\eb0c644726bb4c6fa44e50cea0ca1bfe_1575266522872885403.jpeg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4aed56084504b33be7fcdf893c880ec2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1c734d920bf940399a9edb8b1e3428fb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1cbb73e03df30c3886222ce5b26637f0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20151101_3_1446391395_504272.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oladi-na-kefire-recept-s-foto_61.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\245e7a79d2c14bdbb5206d73dcb2fb43.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0847b1fa61fc48f59dedcbcd88603639_1586952625614433318.jpeg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

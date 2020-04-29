@@ -40,6 +40,8 @@
             this.button6 = new System.Windows.Forms.Button();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.button7 = new System.Windows.Forms.Button();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // button2
@@ -164,11 +166,23 @@
             this.button7.Text = "Save";
             this.button7.UseVisualStyleBackColor = true;
             // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BackgroundImage = global::coffy_new.Properties.Resources._0847b1fa61fc48f59dedcbcd88603639_1586952625614433318;
+            this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox2.Location = new System.Drawing.Point(423, 81);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(135, 137);
+            this.pictureBox2.TabIndex = 16;
+            this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
+            // 
             // Form3
             // 
-            this.BackgroundImage = global::coffy_new.Properties.Resources._2;
+            this.BackgroundImage = global::coffy_new.Properties.Resources._21;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(589, 384);
+            this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.button6);
@@ -183,6 +197,7 @@
             this.Controls.Add(this.button2);
             this.Name = "Form3";
             this.Load += new System.EventHandler(this.Form3_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -214,5 +229,6 @@
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.PictureBox pictureBox2;
     }
 }

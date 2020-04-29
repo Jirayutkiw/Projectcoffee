@@ -63,6 +63,16 @@ namespace coffy_new.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _0847b1fa61fc48f59dedcbcd88603639_1586952625614433318 {
+            get {
+                object obj = ResourceManager.GetObject("0847b1fa61fc48f59dedcbcd88603639_1586952625614433318", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _11 {
             get {
                 object obj = ResourceManager.GetObject("11", resourceCulture);
@@ -113,9 +123,59 @@ namespace coffy_new.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1c734d920bf940399a9edb8b1e3428fb {
+            get {
+                object obj = ResourceManager.GetObject("1c734d920bf940399a9edb8b1e3428fb", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1cbb73e03df30c3886222ce5b26637f0 {
+            get {
+                object obj = ResourceManager.GetObject("1cbb73e03df30c3886222ce5b26637f0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _2 {
             get {
                 object obj = ResourceManager.GetObject("2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _20151101_3_1446391395_504272 {
+            get {
+                object obj = ResourceManager.GetObject("20151101_3_1446391395_504272", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _21 {
+            get {
+                object obj = ResourceManager.GetObject("21", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _245e7a79d2c14bdbb5206d73dcb2fb43 {
+            get {
+                object obj = ResourceManager.GetObject("245e7a79d2c14bdbb5206d73dcb2fb43", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -146,6 +206,16 @@ namespace coffy_new.Properties {
         internal static System.Drawing.Bitmap _4 {
             get {
                 object obj = ResourceManager.GetObject("4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _4aed56084504b33be7fcdf893c880ec2 {
+            get {
+                object obj = ResourceManager.GetObject("4aed56084504b33be7fcdf893c880ec2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -246,6 +316,16 @@ namespace coffy_new.Properties {
         internal static System.Drawing.Bitmap oladi_na_kefire_recept_s_foto_6 {
             get {
                 object obj = ResourceManager.GetObject("oladi-na-kefire-recept-s-foto_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap oladi_na_kefire_recept_s_foto_61 {
+            get {
+                object obj = ResourceManager.GetObject("oladi-na-kefire-recept-s-foto_61", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
