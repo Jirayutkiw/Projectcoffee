@@ -73,6 +73,16 @@ namespace coffy_new.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _121 {
+            get {
+                object obj = ResourceManager.GetObject("121", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _123 {
             get {
                 object obj = ResourceManager.GetObject("123", resourceCulture);
@@ -86,6 +96,16 @@ namespace coffy_new.Properties {
         internal static System.Drawing.Bitmap _144 {
             get {
                 object obj = ResourceManager.GetObject("144", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1456 {
+            get {
+                object obj = ResourceManager.GetObject("1456", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -193,6 +213,16 @@ namespace coffy_new.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _8889 {
+            get {
+                object obj = ResourceManager.GetObject("8889", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap audit_4576720_640_1 {
             get {
                 object obj = ResourceManager.GetObject("audit-4576720_640-1", resourceCulture);
@@ -203,9 +233,39 @@ namespace coffy_new.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap eb0c644726bb4c6fa44e50cea0ca1bfe_1575266522872885403 {
+            get {
+                object obj = ResourceManager.GetObject("eb0c644726bb4c6fa44e50cea0ca1bfe_1575266522872885403", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap oladi_na_kefire_recept_s_foto_6 {
+            get {
+                object obj = ResourceManager.GetObject("oladi-na-kefire-recept-s-foto_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap P {
             get {
                 object obj = ResourceManager.GetObject("P", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap P1 {
+            get {
+                object obj = ResourceManager.GetObject("P1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -184,5 +184,23 @@
   <ItemGroup>
     <None Include="Resources\6.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1456.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8889.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oladi-na-kefire-recept-s-foto_6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eb0c644726bb4c6fa44e50cea0ca1bfe_1575266522872885403.jpeg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

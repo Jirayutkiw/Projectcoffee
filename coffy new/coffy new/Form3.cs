@@ -59,5 +59,10 @@ namespace coffy_new
             con.Close();
 >>>>>>> ba2e80965635f364936d49c4d6cc654dce8aa26d
         }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

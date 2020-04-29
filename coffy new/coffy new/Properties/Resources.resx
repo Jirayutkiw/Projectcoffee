@@ -130,11 +130,20 @@
   <data name="31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\31.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="1456" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1456.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\121.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="123" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\123.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="888" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\888.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -157,11 +166,17 @@
   <data name="77" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\77.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="oladi-na-kefire-recept-s-foto_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\oladi-na-kefire-recept-s-foto_6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="144" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\144.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="888" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\888.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="8889" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8889.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -169,7 +184,10 @@
   <data name="P" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eb0c644726bb4c6fa44e50cea0ca1bfe_1575266522872885403" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eb0c644726bb4c6fa44e50cea0ca1bfe_1575266522872885403.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
