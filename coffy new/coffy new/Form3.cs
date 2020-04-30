@@ -18,12 +18,26 @@ namespace coffy_new
             InitializeComponent();
         }
 
+<<<<<<< HEAD
+        private void label3_Click(object sender, EventArgs e)
+=======
         string gender;
         private void Form3_Load(object sender, EventArgs e)
+>>>>>>> ba2e80965635f364936d49c4d6cc654dce8aa26d
         {
 
         }
 
+<<<<<<< HEAD
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+=======
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             gender = "M";
@@ -43,6 +57,22 @@ namespace coffy_new
             con.Open();
             cmd.ExecuteNonQuery();
             con.Close();
+>>>>>>> ba2e80965635f364936d49c4d6cc654dce8aa26d
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
