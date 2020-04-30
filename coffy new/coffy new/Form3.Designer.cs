@@ -82,14 +82,14 @@
             // 
             this.textBox4.Location = new System.Drawing.Point(174, 106);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(124, 20);
+            this.textBox4.Size = new System.Drawing.Size(124, 22);
             this.textBox4.TabIndex = 3;
             // 
             // textBox5
             // 
             this.textBox5.Location = new System.Drawing.Point(174, 163);
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(124, 20);
+            this.textBox5.Size = new System.Drawing.Size(124, 22);
             this.textBox5.TabIndex = 4;
             // 
             // radioButton3
@@ -99,7 +99,7 @@
             this.radioButton3.ForeColor = System.Drawing.Color.OliveDrab;
             this.radioButton3.Location = new System.Drawing.Point(174, 216);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(60, 27);
+            this.radioButton3.Size = new System.Drawing.Size(74, 33);
             this.radioButton3.TabIndex = 5;
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "male";
@@ -112,7 +112,7 @@
             this.radioButton4.ForeColor = System.Drawing.Color.OliveDrab;
             this.radioButton4.Location = new System.Drawing.Point(261, 216);
             this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(73, 27);
+            this.radioButton4.Size = new System.Drawing.Size(90, 33);
             this.radioButton4.TabIndex = 6;
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "famale";
@@ -133,7 +133,7 @@
             // 
             this.textBox6.Location = new System.Drawing.Point(174, 268);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(124, 20);
+            this.textBox6.Size = new System.Drawing.Size(124, 22);
             this.textBox6.TabIndex = 8;
             // 
             // button6
@@ -152,7 +152,7 @@
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Location = new System.Drawing.Point(176, 308);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(122, 21);
+            this.comboBox2.Size = new System.Drawing.Size(122, 24);
             this.comboBox2.TabIndex = 10;
             // 
             // button7
@@ -165,6 +165,7 @@
             this.button7.TabIndex = 11;
             this.button7.Text = "Save";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // pictureBox2
             // 

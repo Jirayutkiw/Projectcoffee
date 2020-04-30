@@ -26,5 +26,10 @@ namespace coffy_new
         {
 
         }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("บันทึกข้อมูลเสร็จสิ้น");
+        }
     }
 }

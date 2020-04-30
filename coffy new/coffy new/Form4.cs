@@ -38,5 +38,11 @@ namespace coffy_new
         {
 
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Form1 f1 = new Form1();
+            f1.Show();
+        }
     }
 }

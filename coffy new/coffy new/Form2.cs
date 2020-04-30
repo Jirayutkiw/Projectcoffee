@@ -33,7 +33,8 @@ namespace coffy_new
             cmd.ExecuteNonQuery();
             con.Close();
 
-
+            Form1 f1 = new Form1();
+            f1.Show();
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
