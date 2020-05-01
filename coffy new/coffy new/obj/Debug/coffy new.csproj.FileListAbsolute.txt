@@ -21,3 +21,15 @@ C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy
 C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.csproj.CopyComplete
 C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.exe
 C:\Users\Cloud\Desktop\project\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.pdb
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.csprojAssemblyReference.cache
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form1.resources
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form2.resources
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form3.resources
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form4.resources
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form5.resources
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Form6.resources
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy_new.Properties.Resources.resources
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.csproj.GenerateResource.cache
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.csproj.CoreCompileInputs.cache
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.exe
+C:\Users\Pream\Desktop\โปรเจค\Projectcoffee\coffy new\coffy new\obj\Debug\coffy new.pdb
